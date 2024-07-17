@@ -28,4 +28,4 @@ Experiments on the KITTI and ShapeNet datasets demonstrate our network achieving
 
 Guided by - Dr. Jinan Fiaidhi 
 
-
+Note: The code file is not the complete code. The project has been completed successfully and under publication process. Hence only basic idealogy of the project code is given under the coding file. 
